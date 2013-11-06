@@ -1,11 +1,11 @@
 {
-  "name": "scentbirdjs",
-  "description": "Application for helping girls to select perfumes",
+  "name": "protojs",
+  "description": "Prototype for node.js startups bootstrapping",
   "version": "0.0.1",
   "private": true,
   "dependencies": {
-    "express": "3.x",
-    "jade": "*"
+    "express": "latest",
+    "jade": "latest"
   },
   "devDependencies" : {
     "cucumber": "latest"
