@@ -8,6 +8,7 @@
     "jade": "latest"
   },
   "devDependencies" : {
-    "cucumber": "latest"
+    "cucumber": "latest",
+    "zombie": "latest"
   }
 }
